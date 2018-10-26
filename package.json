@@ -10,22 +10,21 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "cross-env": "^5.2.0",
-    "global": "^4.3.2",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
   },
   "devDependencies": {
-    "babel-plugin-dva-hmr": "^0.3.2",
-    "eslint": "^4.14.0",
-    "eslint-config-umi": "^0.1.1",
-    "eslint-plugin-flowtype": "^2.34.1",
-    "eslint-plugin-import": "^2.6.0",
-    "eslint-plugin-jsx-a11y": "^5.1.1",
-    "eslint-plugin-react": "^7.1.0",
-    "husky": "^0.12.0",
+    "cross-env": "^5.2.0",
+    "babel-plugin-dva-hmr": "^0.4.1",
+    "eslint": "^5.7.0",
+    "eslint-config-umi": "^1.2.0",
+    "eslint-plugin-flowtype": "^3.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1",
+    "husky": "^1.1.2",
     "redbox-react": "^1.4.3",
-    "roadhog": "^2.0.0",
+    "roadhog": "^2.4.5",
     "write": "^1.0.3"
   }
 }
